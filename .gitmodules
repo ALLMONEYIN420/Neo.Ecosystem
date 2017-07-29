@@ -19,3 +19,9 @@
 [submodule "src/leveldb"]
 	path = src/leveldb
 	url = https://github.com/vardthomas/leveldb.git
+[submodule "src/Neo.Compiler.Tests"]
+	path = src/Neo.Compiler.Tests
+	url = https://github.com/vardthomas/Neo.Compiler.Tests.git
+[submodule "src/Neo.VM.Tests"]
+	path = src/Neo.VM.Tests
+	url = https://github.com/vardthomas/Neo.VM.Tests.git
