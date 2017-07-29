@@ -1,0 +1,21 @@
+[submodule "src/neo-vm"]
+	path = src/neo-vm
+	url = https://github.com/vardthomas/neo-vm.git
+[submodule "src/neo"]
+	path = src/neo
+	url = https://github.com/vardthomas/neo.git
+[submodule "src/neo-compiler"]
+	path = src/neo-compiler
+	url = https://github.com/vardthomas/neo-compiler.git
+[submodule "src/neo-devpack-dotnet"]
+	path = src/neo-devpack-dotnet
+	url = https://github.com/vardthomas/neo-devpack-dotnet.git
+[submodule "src/neo-cli"]
+	path = src/neo-cli
+	url = https://github.com/vardthomas/neo-cli.git
+[submodule "src/neo-gui"]
+	path = src/neo-gui
+	url = https://github.com/vardthomas/neo-gui.git
+[submodule "src/leveldb"]
+	path = src/leveldb
+	url = https://github.com/vardthomas/leveldb.git
