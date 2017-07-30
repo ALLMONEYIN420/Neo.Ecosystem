@@ -22,3 +22,11 @@ The Neo.Ecosystem project combines the core NEO projects into one solution. It i
 ### Utility Libraries:
 
  * [leveldb](https://github.com/vardthomas/leveldb) - LevelDB database
+ 
+ ### Getting Started
+
+After checking out the source, run the following command to pull down all submodules:
+
+```sh
+$ git submodule update --init --recursive
+```
