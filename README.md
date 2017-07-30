@@ -17,3 +17,8 @@ The Neo.Ecosystem project combines the core NEO projects into one solution. It i
 
  * [Neo.VM.Tests](https://github.com/vardthomas/Neo.VM.Tests) - Unit tests for the NEO virtual machine 
  * [Neo.Compiler.Tests](https://github.com/vardthomas/Neo.Compiler.Tests) - Unit tests for the NEO compiler
+
+
+### Utility Libraries:
+
+ * [leveldb](https://github.com/vardthomas/leveldb) - LevelDB database
