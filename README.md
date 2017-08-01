@@ -30,3 +30,4 @@ After checking out the source, run the following command to pull down all submod
 ```sh
 $ git submodule update --init --recursive
 ```
+NOTE: Since this solution compiles leveldb and copies the resulting dll to the output directories of neo-gui project, you cannot target "Any CPU". You'll need to target x64 or x86.
